@@ -7,12 +7,12 @@ var ASSETS = [
   './app.css',
   './app.js',
   './manifest.webmanifest',
-  './media/intro-portrait.mp4',
-  './media/intro-landscape.mp4',
-  './icons/icon-192.png',
-  './icons/icon-512.png',
-  './icons/icon-512-maskable.png',
-  './icons/apple-touch-icon.png'
+  './Media/intro-portrait.mp4',
+  './Media/intro-landscape.mp4',
+  './Icons/icon-192.png',
+  './Icons/icon-512.png',
+  './Icons/icon-512-maskable.png',
+  './Icons/apple-touch-icon.png'
 ];
 
 self.addEventListener('install', function (e) {
